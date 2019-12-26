@@ -46,6 +46,7 @@ apex.techrepublic.com
 api-godaddy.nd.nudatasecurity.com
 api.apptentive.com
 api.bountysource.com
+api.facebook.com
 api.getpocket.com
 api.ipify.org
 api.medium.com
@@ -67,6 +68,7 @@ apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appsumo.com
+apresolve.spotify.com
 apt.sonarr.tv
 askvg.com
 aspnetcdn.com
@@ -90,6 +92,8 @@ az416426.vo.msecnd.net
 az725175.vo.msecnd.net
 az764295.vo.msecnd.net
 b2bapi.zee5.com
+b-api.facebook.com
+b-graph.facebook.com
 b.marfeelcache.com
 bbc.com
 bbci.co.uk
@@ -98,6 +102,7 @@ beta.api.getpocket.com
 beta.spotify.map.fastly.net
 betanews.com
 bgr.com
+bigzipfiles.facebook.com
 bing.com
 bit.ly
 bitbucket-marketing-cdn.atlassian.com
@@ -125,6 +130,7 @@ c.microsoft.com
 c.s-microsoft.com
 c.trello.com
 calendar.google.com
+captive.apple.com
 ccleaner.com
 cd6.digitaltrends.com
 cdn1.digitaltrends.com
@@ -151,6 +157,7 @@ cdn.cloudflare.net
 cdn.convertkit.com
 cdn.digitaltrends.com
 cdn.embedly.com
+cdn.fbsbx.com
 cdn.firebase.com
 cdn.flipboard.com
 cdn.gadgets360.com
@@ -213,7 +220,9 @@ codepen.io
 collateral.medium.com
 compass-ssl.microsoft.com.edgekey.net
 completion.amazon.co.uk
+connect.facebook.com
 connect.googleforwork.com
+connectivitycheck.android.com
 connectivitycheck.gstatic.com
 consent.truste.com
 content-icc.pulselive.com
@@ -222,6 +231,7 @@ corp.kaltura.com
 cp701-prod.do.dsp.mp.microsoft.com.edgekey.net
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
+creative.ak.fbcdn.net
 cricketapi-icc.pulselive.com
 crunchbase.com
 cryptauthenrollment.googleapis.com
@@ -258,6 +268,7 @@ displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
+dl.google.com
 dmd.metaservices.microsoft.com
 dns.msftncsi.com
 docs.google.com
@@ -298,6 +309,7 @@ easylist-downloads.adblockplus.org
 ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edata.ndtv.com
+edge-mqtt.facebook.com
 edge.api.brightcove.com
 edition.cnn.com
 eds.xboxlive.com
@@ -315,9 +327,22 @@ event.mi.com
 everydayhealth.com
 evoke-windowsservices-tas.msedge.net
 example.com
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
 f.kinja-static.com
 faq.whatsapp.com
 fast.fonts.net
+fb.me
+fbcdn-creative-a.akamaihd.net
 fcm-stream.googleapis.com
 fcm.googleapis.com
 fe2.update.microsoft.com
@@ -373,9 +398,11 @@ google.com
 googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
+graph.facebook.com
 graph.whatsapp.net
 gravatar.com
 groups.google.com
+gsp1.apple.com
 gstatic.com
 guce.yahoo.com
 gwapi.zee5.com-v2.edgekey.net
@@ -441,9 +468,11 @@ instantmessaging-pa.googleapis.com
 intercom.io
 ipinfo.io
 ipleak.net
+ipv6.msftncsi.com
 ipv6.ndtv.com.edgekey.net
 itknowledgeexchange.techtarget.com
 itpapers.techrepublic.com
+itunes.apple.com
 j.mp
 japan.techrepublic.com
 jobs.medium.com
@@ -603,6 +632,7 @@ mmi731.whatsapp.net
 mms.whatsapp.net
 mobilenetworkscoring-pa.googleapis.com
 movies.ndtv.com
+mqtt.c10r.facebook.com
 mscomajax.vo.msecnd.net
 msedge.net
 msftncsi.com
@@ -680,6 +710,7 @@ players.brightcove.net
 pluralsight.com
 plus.google.com
 pmdssl.flixkart.com.edgekey.net
+portal.fb.com
 pps.whatsapp.net
 pricelist.skype.com
 privacy-policy.truste.com
@@ -724,6 +755,7 @@ s-msft.com
 s.gateway.messenger.live.com
 s.gravatar.com
 s.marketwatch.com
+s.mzstatic.com
 s.shopify.com
 s.w-x.co
 s.w.org
@@ -737,6 +769,9 @@ samsung.com
 sb-ssl.google.com
 sbi.co.in
 sbi.com
+scontent-lhr3-1.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+scontent.xx.fbcdn.net
 script.google.com
 script.googleapis.com
 seal.verisign.com
@@ -784,6 +819,8 @@ sslbl.abuse.ch
 stackexchange.com
 stackoverflow.com
 staging.plex.tv
+star-mini.c10r.facebook.com
+star.c10r.facebook.com
 statebankrewardz.com
 static1.squarespace.com
 static2cdn.hubspot.com
@@ -806,6 +843,7 @@ storeedgefd.dsx.mp.microsoft.com
 subscribe.wired.com
 support.microsoft.com
 sysctl.org
+s{1..5}.symcb.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t.co
@@ -852,12 +890,15 @@ underarmour.scene7.com
 unsplash.com
 update.code.visualstudio.com
 updates-http.cdn-apple.com
+upload.facebook.com
 urs.techrepublic.com
 us.configsvc1.live.com.akadns.net
 use.fontawesome.com
 use.typekit.net
 useraction.zee5.com-v2.edgekey.net
 userapi.zee5.com-v4.edgekey.net
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
 v.firebog.net
 v.shopify.com
 v.whatsapp.net
@@ -909,6 +950,7 @@ www.aolcdn.com
 www.apex.techrepublic.com
 www.api.medium.com
 www.apple.com
+www.appleiphonecell.com
 www.appsumo.com
 www.askvg.com
 www.betanews.com
