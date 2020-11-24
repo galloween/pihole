@@ -2,6 +2,11 @@
 # This script will download and add domains from the rep to whitelist.txt file.
 # Adapted from: https://github.com/anudeepND/whitelist
 # Created by Anudeep (Slight change by cminion)
+#
+# wget https://raw.githubusercontent.com/galloween/pihole/master/whitelist.sh
+# sudo chmod +x whitelist.sh
+# sh whitelist.sh
+#
 #================================================================================
 TICK="[\e[32m ✔ \e[0m]"
 PIHOLE_LOCATION="/etc/pihole"
